@@ -45,7 +45,7 @@ function handleClick() {
       break;
 
 
-    default: console.log(key);
+    default: console.log(buttonInnerHTML);
 
   }
 }
